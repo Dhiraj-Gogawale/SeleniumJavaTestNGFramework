@@ -1,0 +1,14 @@
+[TRACE] 2020-04-21 12:29:16.371 [main] log4jdemo -  This is trace message 
+[INFO ] 2020-04-21 12:29:16.375 [main] log4jdemo -  This is information message 
+[ERROR] 2020-04-21 12:29:16.375 [main] log4jdemo -  This is a error message 
+[WARN ] 2020-04-21 12:29:16.375 [main] log4jdemo -  This is worning message 
+[FATAL] 2020-04-21 12:29:16.376 [main] log4jdemo -  This is a fatal message [TRACE] 2020-04-21 12:43:14.423 [main] log4jdemo -  This is trace message 
+[INFO ] 2020-04-21 12:43:14.427 [main] log4jdemo -  This is information message 
+[ERROR] 2020-04-21 12:43:14.427 [main] log4jdemo -  This is a error message 
+[WARN ] 2020-04-21 12:43:14.427 [main] log4jdemo -  This is worning message 
+[FATAL] 2020-04-21 12:43:14.427 [main] log4jdemo -  This is a fatal message 
+[TRACE] 2020-04-21 12:54:33.830 [main] log4jdemo -  This is trace message 
+[INFO ] 2020-04-21 12:54:33.833 [main] log4jdemo -  This is information message 
+[ERROR] 2020-04-21 12:54:33.834 [main] log4jdemo -  This is a error message 
+[WARN ] 2020-04-21 12:54:33.834 [main] log4jdemo -  This is worning message 
+[FATAL] 2020-04-21 12:54:33.834 [main] log4jdemo -  This is a fatal message 
